@@ -1,3 +1,7 @@
+# This repository is deprecated
+
+Due to a lack of time we sadly have decided to deprecate this repository. It will stay public for a while, but no issues will be reviewed or pull requests will be merged. Feel free to fork the repository to continue the work if that is desired.
+
 <p align="center">
   <br />
   <img
@@ -34,9 +38,9 @@ Looking for more UI and less CLI? Try out the new [Siera Desktop](https://siera.
 
 Siera is the most convenient way for self-sovereign identity (SSI) developers to interact with SSI agents.
 
-- **Environments** to easily manage configuration for multiple projects and agents
-- **Automations** that you can perform against an agent
-- **Mock data** so that you can focus on the important task of building your application instead of other foobar (coming soon 🚧)
+-   **Environments** to easily manage configuration for multiple projects and agents
+-   **Automations** that you can perform against an agent
+-   **Mock data** so that you can focus on the important task of building your application instead of other foobar (coming soon 🚧)
 
 If you are looking for more information about the concepts, example code and tutorials on how to use the CLI we recommend you check out our extensive [docs](https://docs.siera.animo.id/).
 
